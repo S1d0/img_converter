@@ -1,0 +1,3 @@
+flask
+pillow_heif
+flask_cors
